@@ -28,6 +28,7 @@ body {
 
 .half-width img {
   width: 100%;
+  padding-top: 40px;
 }
 
 .top-banner {
@@ -82,4 +83,8 @@ section {
 
 footer p {
   text-align: center;
+}
+
+.experience-header {
+  margin: 0px 0px 40px 20px;
 }
